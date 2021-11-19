@@ -1,5 +1,5 @@
 ---
-title: Blog 1
+title: "Blog 1"
 date: 2021-19-11
 ---
 
